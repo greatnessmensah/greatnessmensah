@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ephraim  
-- 👀 I’m interested in Learning to become a software developer
-- 🌱 I’m currently learning C
+- 👀 I’m interested in Learning to become a Machine Learning Engineer
+- 🌱 I’m currently learning Python
 - 📫 How to reach me: Twitter @greatnessmensah
 
 <!---
