@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ephraim  
-- 👀 I’m interested in Learning to become a Machine Learning Engineer
+- 👀 I’m interested in Learning to become a Software Engineer
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: ephraimmensah99@gmail.com
 
