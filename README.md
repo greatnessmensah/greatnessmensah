@@ -1,8 +1,4 @@
-- 👋 Hi, I’m Ephraim  
-- 👀 I’m interested in Learning to become a Software Engineer
-- 🌱 I’m currently learning Python
-- 📫 How to reach me: ephraimmensah99@gmail.com
-
+<h1>👋 Hi there</h1> 
 <!---
 greatnessmensah/greatnessmensah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
